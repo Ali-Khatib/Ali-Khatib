@@ -5,7 +5,7 @@
 
 ## 👤 About Me
 
-I am an Aspiring Backend Engineer with experience in Python, VB.NET, and Java, and a growing focus on Machine Learning and Deep Learning. Passionate about building efficient systems, solving problems, and continuously learning through hands-on projects.
+I am an Aspiring Backend Engineer with experience in Python and JavaScript, actively working on Machine Learning and Deep Learning projects. Passionate about building efficient systems, solving problems, and continuously learning through hands-on projects.
 
 ## 🧪 Skills & Expertise
 
