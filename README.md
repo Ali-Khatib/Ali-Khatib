@@ -1,6 +1,6 @@
 # 👨‍💻 Hello, I'm Ali Khatib
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=AI+Deep+Learning+Engineer;Computer+Vision+Researcher;Applied+ML+Developer;Problem+Solver;Student" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=AI+Deep+Learning+Engineer;Computer+Vision+Researcher;Applied+ML+Developer;Analytical+Problem+Solver;Student" alt="Typing SVG">
 
 
 ## 👤 About Me
