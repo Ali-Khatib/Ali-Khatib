@@ -39,5 +39,3 @@ I am an Aspiring Backend Engineer with experience in Python, VB.NET, and Java, a
 ## 🤝 Let's Work Together !
 
 Feel free to reach out to discuss backend systems, machine learning, computer vision projects, or collaborative software ideas. Always open to meaningful challenges.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
