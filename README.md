@@ -17,7 +17,7 @@ I am an Aspiring Backend Engineer with experience in Python, VB.NET, and Java, a
 <p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwindcss,pytorch,tensorflow" alt="Frameworks & Libraries" /> </p>  
 
 ### Tools & DevOps
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools & DevOps" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & DevOps" /> </p>
 
 ## 🧠 My current Projects  
 -Group Context-Aware Multi-Emotion Recognition AI
