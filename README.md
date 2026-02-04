@@ -14,7 +14,7 @@ I am an Aspiring Backend Engineer with experience in Python, VB.NET, and Java, a
 <p align="left"> <img src="https://skillicons.dev/icons?i=dart,python,java,html,css" alt="Programming Languages" /> </p>
 
 ### Frameworks & Libraries
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,tailwindcss,django,pytorch,tensorflow" alt="Frameworks & Libraries" /> </p>  
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwindcss,django,pytorch,tensorflow" alt="Frameworks & Libraries" /> </p>  
 
 ### Tools & DevOps
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools & DevOps" /> </p>
