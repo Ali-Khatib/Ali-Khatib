@@ -5,7 +5,10 @@
 
 ## 👤 About Me
 
-I am an Aspiring Backend Engineer with experience in Python and JavaScript, actively working on Machine Learning and Deep Learning projects. Passionate about building efficient systems, solving problems, and continuously learning through hands-on projects.
+Motivated Software Engineer passionate about software development, machine learning, and artificial
+intelligence. Dedicated to solving real-world problems by designing and building secure, scalable systems
+using modern technologies and strong software architecture principles. Thrive in collaborative environments
+where ideas are shared, challenges are tackled, and innovative solutions are developed
 
 ## 🧪 Skills & Expertise
 
