@@ -23,8 +23,8 @@ where ideas are shared, challenges are tackled, and innovative solutions are dev
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools & DevOps" /> </p>
 
 ## 🧠 My current Projects  
--Group Context-Aware Multi-Emotion Recognition AI
-
+  -A better way for technical professionals to share their work.
+  
 ## 📘 Areas of Growth
 
 - Computer Vision & Image Visualization  
